@@ -13,3 +13,7 @@
 ```
 
 Pass this data into the `<User />` component and display this data when you get the response from the server
+
+### Demo
+
+![Task Demo](https://raw.githubusercontent.com/rotimi-best/react-conditional-rendering/master/src/assets/loading_demo.gif)
